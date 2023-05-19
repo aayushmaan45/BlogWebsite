@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=VT323&display=swap');
+
+body{
+    background-color: #0a0b0f;
+    font-family: 'VT323';
+    color: #7fff00;
+}
+
+hr{
+    /* border-style: none;  border will be removed due to none style
+    border-top-style: dotted;   top border will be dotted
+    width: 5%;  border width will be 5%
+    border-width: 5px;  if border style is dotted than dots will be 5px wide */
+    border-color: #7fff00;
+    /* background-color: transparent;   will remove deafult styling of border color */
+}
+
+.profile{
+    width: 250px;
+    height: 250px;
+}
+
