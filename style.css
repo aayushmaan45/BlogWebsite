@@ -7,12 +7,7 @@ body{
 }
 
 hr{
-    /* border-style: none;  border will be removed due to none style
-    border-top-style: dotted;   top border will be dotted
-    width: 5%;  border width will be 5%
-    border-width: 5px;  if border style is dotted than dots will be 5px wide */
     border-color: #7fff00;
-    /* background-color: transparent;   will remove deafult styling of border color */
 }
 
 .profile{
